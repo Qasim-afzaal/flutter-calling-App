@@ -1,6 +1,3 @@
-Here's a polished, visually enhanced version of your README with badges, icons, and improved structure:
-
-```markdown
 # 📞 FlutterCall: Real-Time Video & Voice SDK Integration 
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.19-%2302569B?logo=flutter)](https://flutter.dev)

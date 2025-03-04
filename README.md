@@ -54,7 +54,7 @@ graph LR
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/flutter-calling-app.git
+   git clone https://github.com/Qasim-afzaal/flutter-calling-app.git
    ```
 
 2. **Configure Environment**  
@@ -125,25 +125,6 @@ Add these permissions to `AndroidManifest.xml`:
 
 [![License](https://img.shields.io/github/license/yourusername/flutter-calling-app?color=blue)](LICENSE)
 
-**Maintained by [Your Name]**  
+**Maintained by Qasim Afzaal**  
 [![Twitter](https://img.shields.io/badge/-Follow%20%40YourHandle-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
 [![Buy Coffee](https://img.shields.io/badge/-Buy%20a%20Coffee-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/yourprofile)
-```
-
-**Key Improvements**:
-1. Added interactive badges for SDK version and platforms
-2. Visual architecture diagram using Mermaid
-3. Performance comparison table
-4. Code snippet visualization
-5. Social links and sponsor button
-6. Clear permission requirements
-7. Modern feature descriptions with emoji headers
-8. Quick-start guide with copy-paste friendly commands
-
-To use this:
-1. Enable GitHub's Mermaid support in repo settings
-2. Replace `yourusername` with your GitHub handle
-3. Update all links to your actual profiles/docs
-4. Add actual performance metrics from your tests
-
-The combination of technical details and visual elements makes this both professional and engaging!

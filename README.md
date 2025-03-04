@@ -123,5 +123,5 @@ Add these permissions to `AndroidManifest.xml`:
 
 ## 📜 License
 
-[![License](https://img.shields.io/github/license/yourusername/flutter-calling-app?color=blue)](LICENSE)
+[![License](https://img.shields.io/github/license/Qasim-afzaal/flutter-calling-app?color=blue)](LICENSE)
 
